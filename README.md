@@ -5,4 +5,6 @@ with a focus on workload identity and authorization.
 
 ![Bob Singh — terminal-style profile card](./profile.svg)
 
-[💻 Projects](https://github.com/bobsingh-dev?tab=repositories) · [🐍 Algorithms in Python](https://github.com/bobsingh-dev/algorithms)
+[![Projects](./projects-button.svg)](https://github.com/bobsingh-dev?tab=repositories) [![LinkedIn](./linkedin-button.svg)](https://www.linkedin.com/in/bobby-a-6424ab388/) [![Email](./email-button.svg)](mailto:bobsingh.dev@gmail.com)
+
+[🐍 Algorithms in Python](https://github.com/bobsingh-dev/algorithms)
