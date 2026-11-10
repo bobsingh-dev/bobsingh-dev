@@ -78,7 +78,7 @@
 <text x="281" y="178"><tspan fill="#ffe84d">Focus</tspan><tspan x="391">Workload identity · Cloud authorization</tspan></text>
 <text x="281" y="198"><tspan fill="#ffe84d">OS</tspan><tspan x="391">Linux · Windows · macOS</tspan></text>
 <text x="281" y="218"><tspan fill="#ffe84d">Languages</tspan><tspan x="391">Python · Ruby · SQL</tspan></text>
-<text x="281" y="238"><tspan fill="#ffe84d">Frameworks</tspan><tspan x="391">Ruby on Rails · FastAPI</tspan></text>
+<text x="281" y="238"><tspan fill="#ffe84d">Frameworks</tspan><tspan x="391">Ruby on Rails · FastAPI · Django</tspan></text>
 <text x="281" y="258"><tspan fill="#ffe84d">Tools</tspan><tspan x="391">Git · PostgreSQL · Docker</tspan></text>
 <text x="281" y="278"><tspan fill="#ffe84d">Cloud &amp; CI</tspan><tspan x="391">AWS · Terraform · GitHub Actions</tspan></text>
 <text x="281" y="308" fill="#b6fa39">CERTIFICATIONS &amp; ACHIEVEMENTS</text>
