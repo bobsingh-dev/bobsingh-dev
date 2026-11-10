@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+<title id="title">Bob Singh — terminal profile</title>
+<desc id="desc">Neon Python mark beside a terminal profile about workload identity, cloud authorization, and secure AI infrastructure.</desc>
+<rect x="1" y="1" width="758" height="298" rx="15" fill="#080a09" stroke="#343c30" stroke-width="2"/>
+<path d="M2 43h756M256 65v210" fill="none" stroke="#343c30"/>
+<circle cx="23" cy="22" r="4" fill="#ff786b"/><circle cx="39" cy="22" r="4" fill="#ffe84d"/><circle cx="55" cy="22" r="4" fill="#b6fa39"/>
+<g transform="translate(37 69) scale(.88)">
+<path d="M66 57V36C66 13 100 5 128 5s62 8 62 31v46c0 23-12 35-35 35h-52c-30 0-45 20-45 45v20H47C17 182 6 153 6 125s13-59 41-59h79a5 5 0 0 0 0-10H66Z" fill="#fff229"/>
+<path d="M190 191v21c0 23-34 31-62 31s-62-8-62-31v-46c0-23 12-39 35-39h54c30 0 44-20 44-45V64h10c30 0 41 28 41 56s-13 61-41 61h-79a5 5 0 0 0 0 10h60Z" fill="#c1ff08"/>
+<circle cx="92" cy="36" r="9" fill="#080a09"/><circle cx="164" cy="211" r="9" fill="#080a09"/>
+</g>
+<g font-family="monospace">
+<text x="76" y="27" fill="#aab4a8" font-size="13">bobsingh-dev / profile</text>
+<text x="281" y="85" fill="#b6fa39" font-size="17">$ whoami</text>
+<text x="281" y="122" fill="#f1f5ed" font-size="29" font-weight="bold">Bob Singh</text>
+<text x="281" y="151" fill="#bfc9bb" font-size="17">Identity Security &amp; Secure AI Infrastructure</text>
+<g font-size="16" fill="#f1f5ed">
+<text x="281" y="195"><tspan fill="#ffe84d">FOCUS  </tspan><tspan x="357">Workload identity · Cloud authorization</tspan></text>
+<text x="281" y="226"><tspan fill="#ffe84d">STACK  </tspan><tspan x="357">Python · Linux · Terraform · AWS</tspan></text>
+<text x="281" y="257"><tspan fill="#ffe84d">BUILDS </tspan><tspan x="357">Secure ML deployment · AWS infrastructure</tspan></text>
+</g></g></svg>
