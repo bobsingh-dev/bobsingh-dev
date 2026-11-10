@@ -1,4 +1,4 @@
-# Who gets to call the model?
+# Identity Security & Secure AI Infrastructure
 
 I'm Bob. I build and document secure cloud and AI infrastructure,
 with a focus on workload identity and authorization.
