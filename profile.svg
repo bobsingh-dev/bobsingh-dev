@@ -106,7 +106,7 @@
 <g font-size="14" fill="#f1f5ed">
 <text x="281" y="180"><tspan fill="#ffe84d">Focus</tspan><tspan x="444">Cloud IAM · Workload Identity</tspan></text>
 <text x="281" y="202"><tspan fill="#ffe84d">OS</tspan><tspan x="444">Linux · Windows · macOS</tspan></text>
-<text x="281" y="224"><tspan fill="#ffe84d">Languages</tspan><tspan x="444">Python · Ruby · SQL</tspan></text>
+<text x="281" y="224"><tspan fill="#ffe84d">Languages</tspan><tspan x="444">Python · Go · Ruby · SQL</tspan></text>
 <text x="281" y="246"><tspan fill="#ffe84d">Frameworks</tspan><tspan x="444">Ruby on Rails · FastAPI · Django</tspan></text>
 <text x="281" y="268"><tspan fill="#ffe84d">Protocols</tspan><tspan x="444">OAuth 2.0 · OIDC · SAML</tspan></text>
 <text x="281" y="290"><tspan fill="#ffe84d">Workload identity</tspan><tspan x="444">SPIFFE/SPIRE</tspan></text>
@@ -114,10 +114,10 @@
 <text x="281" y="334"><tspan fill="#ffe84d">Authorization</tspan><tspan x="444">OpenFGA · OPA</tspan></text>
 <text x="281" y="356"><tspan fill="#ffe84d">AI integration</tspan><tspan x="444">MCP</tspan></text>
 <text x="281" y="378"><tspan fill="#ffe84d">Secrets</tspan><tspan x="444">Vault</tspan></text>
-<text x="281" y="400"><tspan fill="#ffe84d">Tools</tspan><tspan x="444">Git · PostgreSQL · Docker</tspan></text>
+<text x="281" y="400"><tspan fill="#ffe84d">Tools</tspan><tspan x="444">Git · PostgreSQL · Docker · Kubernetes</tspan></text>
 <text x="281" y="422"><tspan fill="#ffe84d">Cloud &amp; CI</tspan><tspan x="444">AWS · Azure · Terraform · GitHub Actions</tspan></text>
 <text x="281" y="462" fill="#b6fa39">CERTIFICATIONS &amp; ACHIEVEMENTS</text>
 <text x="281" y="483">CompTIA Security+ · ISC2 CC</text>
 <text x="281" y="503">Google Cybersecurity Certificate</text>
 <text x="281" y="523" font-size="12">2026 GitLab Hackathon runner-up · GitLab Level 4 Contributor</text>
-</g><text x="22" y="563" font-size="14" fill="#b6fa39"><!-- stats:start -->Public repos: 6  ·  Followers: 0  ·  Stars earned: 6<!-- stats:end --></text></g></svg>
+</g><text x="22" y="563" font-size="14" fill="#b6fa39"><!-- stats:start -->Public repos: 2 · Followers: 0 · Stars earned: 0<!-- stats:end --></text></g></svg>
