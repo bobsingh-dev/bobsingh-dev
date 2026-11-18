@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="580" viewBox="0 0 960 580" role="img" aria-labelledby="title desc">
-<title id="title">Bob Singh — terminal profile</title>
-<desc id="desc">Bob Singh’s gold binary portrait profile with a security badge, animated gold binary rain, technical skills and achievements.</desc>
+<title id="title">Bob Singh — AI Security · Agent Authorization</title>
+<desc id="desc">Bob Singh’s gold binary portrait profile with a security badge, animated gold binary rain, AI agent authorization focus, current project, and credentials.</desc>
 <defs><radialGradient id="ambient" cx="16%" cy="65%" r="83%">
 <stop stop-color="#21180b"/><stop offset=".6" stop-color="#100e0b"/><stop offset="1" stop-color="#090909"/>
 </radialGradient>
@@ -99,24 +99,20 @@
 <rect x="269" y="59" width="676" height="474" rx="12" fill="#090909" opacity=".33"/>
 <g font-family="monospace">
 <text x="76" y="27" fill="#aab4a8" font-size="13">bobsingh-dev / profile</text>
-<text x="281" y="85" fill="#e8b94f" font-size="17">$ whoami</text>
-<text x="281" y="122" fill="#f6f0e5" font-size="29" font-weight="bold">Bob Singh</text>
-<text x="281" y="151" fill="#c8bda9" font-size="17">Identity Security &amp; Secure AI Infrastructure</text>
-<g font-size="14" fill="#f6f0e5">
-<text x="281" y="180"><tspan fill="#f5ce79">Focus</tspan><tspan x="444">Cloud IAM · Workload Identity</tspan></text>
-<text x="281" y="202"><tspan fill="#f5ce79">OS</tspan><tspan x="444">Linux · Windows · macOS</tspan></text>
-<text x="281" y="224"><tspan fill="#f5ce79">Languages</tspan><tspan x="444">Python · Go · Ruby · SQL</tspan></text>
-<text x="281" y="246"><tspan fill="#f5ce79">Frameworks</tspan><tspan x="444">Ruby on Rails · FastAPI · Django</tspan></text>
-<text x="281" y="268"><tspan fill="#f5ce79">Protocols</tspan><tspan x="444">OAuth 2.0 · OIDC · SAML</tspan></text>
-<text x="281" y="290"><tspan fill="#f5ce79">Workload identity</tspan><tspan x="444">SPIFFE/SPIRE</tspan></text>
-<text x="281" y="312"><tspan fill="#f5ce79">Enterprise IAM</tspan><tspan x="444">Keycloak · Okta · SailPoint</tspan></text>
-<text x="281" y="334"><tspan fill="#f5ce79">Authorization</tspan><tspan x="444">OpenFGA · OPA</tspan></text>
-<text x="281" y="356"><tspan fill="#f5ce79">AI integration</tspan><tspan x="444">MCP</tspan></text>
-<text x="281" y="378"><tspan fill="#f5ce79">Secrets</tspan><tspan x="444">Vault</tspan></text>
-<text x="281" y="400"><tspan fill="#f5ce79">Tools</tspan><tspan x="444">Git · PostgreSQL · Docker · Kubernetes</tspan></text>
-<text x="281" y="422"><tspan fill="#f5ce79">Cloud &amp; CI</tspan><tspan x="444">AWS · Azure · Terraform · GitHub Actions</tspan></text>
-<text x="281" y="462" fill="#e8b94f">CERTIFICATIONS &amp; ACHIEVEMENTS</text>
-<text x="281" y="483">CompTIA Security+ · ISC2 CC</text>
-<text x="281" y="503">Google Cybersecurity Certificate</text>
-<text x="281" y="523" font-size="12">2026 GitLab Hackathon runner-up · GitLab Level 4 Contributor</text>
-</g><text x="22" y="563" font-size="14" fill="#e8b94f"><!-- stats:start -->Public repos: 6  ·  Followers: 0  ·  Stars earned: 6<!-- stats:end --></text></g></svg>
+<text x="281" y="91" fill="#e8b94f" font-size="17">$ whoami</text>
+<text x="281" y="140" fill="#f6f0e5" font-size="39" font-weight="bold">Bob Singh</text>
+<text x="281" y="173" fill="#e8b94f" font-size="23">AI Security · Agent Authorization</text>
+<g font-size="17" fill="#f6f0e5">
+<text x="281" y="221"><tspan fill="#e8b94f">Focus</tspan><tspan x="403">User delegation · Tool authorization</tspan></text>
+<text x="403" y="245">Tenant isolation</text>
+<rect x="281" y="269" width="633" height="49" rx="8" fill="#251b0c" stroke="#8c682c"/>
+<text x="296" y="300"><tspan fill="#e8b94f">Building</tspan><tspan x="403" fill="#ffe29c" font-size="20" font-weight="bold">ai-agent-authorization</tspan></text>
+<text x="281" y="346" font-size="16"><tspan fill="#e8b94f">Stack</tspan><tspan x="478">Python · FastAPI · pytest · PostgreSQL · Docker</tspan></text>
+<text x="281" y="373" font-size="16"><tspan fill="#e8b94f">Protocols</tspan><tspan x="478">OAuth 2.0 · OpenID Connect (OIDC) · MCP</tspan></text>
+<text x="281" y="400" font-size="16"><tspan fill="#e8b94f">Cloud</tspan><tspan x="478">AWS · Azure</tspan></text>
+<text x="281" y="427" font-size="16"><tspan fill="#e8b94f">MLSecOps (learning)</tspan><tspan x="478">GitHub Actions · Trivy · SBOMs · Cosign</tspan></text>
+<path d="M281 444 H914" stroke="#745521" opacity=".65"/>
+<text x="281" y="467" fill="#e8b94f" font-size="14">CERTIFICATIONS &amp; ACHIEVEMENTS</text>
+<text x="281" y="492" font-size="15">CompTIA Security+ · ISC2 CC · Google Cybersecurity Certificate</text>
+<text x="281" y="517" font-size="15">2026 GitLab Hackathon runner-up · GitLab Level 4 Contributor</text>
+</g><text x="22" y="563" font-size="14" fill="#e8b94f"><!-- stats:start -->Public repos: 2 · Followers: 0 · Stars earned: 0<!-- stats:end --></text></g></svg>
